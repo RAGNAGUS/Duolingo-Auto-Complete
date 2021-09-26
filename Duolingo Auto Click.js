@@ -1,9 +1,7 @@
 // ==UserScript==
 // @name Duolingo Bot
 // @namespace Script Runner Pro
-// @match https://www.duolingo.com/
-// @match https://www.duolingo.com/learn
-// @match https://www.duolingo.com/practice
+// @match https://www.duolingo.com/*
 // @grant none
 // ==/UserScript==
 
