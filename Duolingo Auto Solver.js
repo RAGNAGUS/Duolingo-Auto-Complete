@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Duolingo Auto Solver
 // @description  Auto answer Duolingo script!
-// @match        https://www.duolingo.com/learn
+// @match https://www.duolingo.com/*
 // @grant        none
 // ==/UserScript==
 
