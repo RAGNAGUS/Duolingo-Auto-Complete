@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Duolingo Auto Complete
+// @name         Duolingo Auto Solver
 // @description  Auto answer Duolingo script!
 // @match        https://www.duolingo.com/learn
 // @grant        none
